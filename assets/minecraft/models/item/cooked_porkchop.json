@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_porkchop"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "pizza_pack:item/pepperoni_pizza"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "pizza_pack:item/cheese_pizza"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "pizza_pack:item/sausage_pizza"
+    }
+  ]
+}
