@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_hoe",
+  "textures": {
+    "layer1": "minecraft:item/hoe_fortune_overlay"
+  }
+}

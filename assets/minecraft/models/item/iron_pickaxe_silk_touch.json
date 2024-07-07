@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_pickaxe",
+  "textures": {
+    "layer1": "minecraft:item/pickaxe_silk_touch_overlay"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/stone_axe",
+  "textures": {
+    "layer1": "minecraft:item/axe_silk_touch_overlay"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_pickaxe"
+  },
+  "overrides": [
+    {
+      "model": "minecraft:item/golden_pickaxe_silk_touch",
+      "predicate": {
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "minecraft:item/golden_pickaxe_fortune",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    }
+  ]
+}

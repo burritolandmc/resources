@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_hoe",
+  "textures": {
+    "layer1": "minecraft:item/hoe_silk_touch_overlay"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/netherite_shovel",
+  "textures": {
+    "layer1": "minecraft:item/shovel_silk_touch_overlay"
+  }
+}

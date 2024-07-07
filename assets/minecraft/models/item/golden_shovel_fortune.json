@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/golden_shovel",
+  "textures": {
+    "layer1": "minecraft:item/shovel_fortune_overlay"
+  }
+}

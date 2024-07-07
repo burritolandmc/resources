@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/iron_axe",
+  "textures": {
+    "layer1": "minecraft:item/axe_fortune_overlay"
+  }
+}
