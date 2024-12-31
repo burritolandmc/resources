@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond_pickaxe"
+      },
+      {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "fallback": {
+          "type": "minecraft:empty"
+        },
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "minecraft:model",
+              "model": "distinct_tools:item/pickaxe_silk_touch_overlay"
+            }
+          },
+          {
+            "threshold": 2,
+            "model": {
+              "type": "minecraft:model",
+              "model": "distinct_tools:item/pickaxe_fortune_overlay"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

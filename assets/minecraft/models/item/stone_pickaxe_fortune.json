@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/stone_pickaxe",
-  "textures": {
-    "layer1": "minecraft:item/pickaxe_fortune_overlay"
-  }
-}

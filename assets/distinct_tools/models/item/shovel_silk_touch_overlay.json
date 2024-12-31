@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "distinct_tools:item/shovel_silk_touch_overlay"
+  }
+}

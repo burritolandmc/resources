@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "distinct_tools:item/pickaxe_fortune_overlay"
+  }
+}

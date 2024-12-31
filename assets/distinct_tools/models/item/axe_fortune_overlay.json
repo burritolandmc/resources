@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "distinct_tools:item/axe_fortune_overlay"
+  }
+}
